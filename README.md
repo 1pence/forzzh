@@ -1,37 +1,59 @@
 # 相逢意气为君饮，系马高楼垂柳边
 
-You can use the [editor on GitHub](https://github.com/1pence/forzzh/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 一，想说的话
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 二，注意事项
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 三，链接
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## 四，更新日志
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1pence/forzzh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*以下是随手记的更新日志 ~~看不看都可~~*
 
-### Support or Contact
+### 20200321
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 又下回来了*GitHub Desktop* 初步搞懂了那个hang on是啥
+- 扒了个静态html源码
+- 没有css文件 界面原始丑陋
+
+### 20200407
+
+#### Pt-1
+
+- 库1pence 归零重启
+- github上explore到几个工程 标星完扒了码
+- 选了一个大佬用纯html写的点阵 覆盖原来那个烂index文件
+
+#### Pt-2
+
+- 修改了 矩阵文字
+- 修改了 倒计时文字
+- 修改了 头像荧光色
+- 在 *luogu图床* 上传 *zzh公主照*
+
+- 将图床改至github
+- 写入音乐 ~~失败~~
+
+### 20200408
+
+- 学到了如何展示前端项目
+- 储存库happybirthday_to_xuan清空 
+- Ctrl+C  & Ctrl+V 解决一切（。
+- 展示界面已可登入
+
+### 20200409
+
+- 修改了 煽情文字
+- 修改了 文字颜色
+- 继续试图写bgm 失败（~~mdzz~~
+- 给库forzzh选了个自带模板
+- 写这个~~辣鸡~~README
+
